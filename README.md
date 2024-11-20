@@ -1,10 +1,9 @@
- # VIRTUAL MACHINE CREATION IN LINUX
+ **##EX: 01: VIRTUAL MACHINE CREATION IN LINUX**
   ## AIM
-  ``
-      To install a Linux virtual machine (VM) using CentOS on VirtualBox or VMware Workstation.
-## PROBLEM STATEMENT
-``
-    This experiment involves setting up a virtual machine with CentOS, a popular Linux distribution. This setup allows users to practice Linux commands, test applications, and develop software in a virtualized environment without affecting the host system.
+  To install a Linux virtual machine (VM) using CentOS on VirtualBox or VMware Workstation.
+  
+## PROBLEM STATEMENT 
+This experiment involves setting up a virtual machine with CentOS, a popular Linux distribution. This setup allows users to practice Linux commands, test applications, and develop software in a virtualized environment without affecting the host system.
 
 ## ALGORITHM
  ### Steps 1:
@@ -57,7 +56,6 @@ cat /etc/hostname
 
 ![image](https://github.com/user-attachments/assets/bb4d3902-8e05-46b1-90d6-60a346a7b26d)
  
- Include your Screenshots Here.
 ## RESULT
  Successfully installed CentOS on a virtual machine using VirtualBox or VMware, providing a fully functional CentOS environment for testing and development
 
