@@ -1,4 +1,4 @@
- **##EX: 01: VIRTUAL MACHINE CREATION IN LINUX**
+ ### EX: 01: VIRTUAL MACHINE CREATION IN LINUX
   ## AIM
   To install a Linux virtual machine (VM) using CentOS on VirtualBox or VMware Workstation.
   
